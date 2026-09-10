@@ -1,4 +1,4 @@
-# my-energy-band-culculate-way-one
+# my-energy-band-calculate-way-one
 A Python script to plot VASP band structure from EIGENVAL and OUTCAR (without SOC).
 
 ## Features
